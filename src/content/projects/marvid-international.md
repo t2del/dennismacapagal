@@ -1,7 +1,7 @@
 ---
 title: 'Marvid International'
 desc: 'The founders of Marvid International began business with pelican in 1992, originally as a sub-contractor for the assembly of flashlights.'
-heroImage: '/project/marvid.jpg'
+heroImage: '/dennismacapagal/project/marvid.jpg'
 siteUrl:  'https://www.marvid.com.sg/'
 role: 'Front-End and Back-end Development'
 platform: 'OpenCart'

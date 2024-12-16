@@ -26,7 +26,7 @@ const { Content } = await project.render();
 <PageLayout title={project.data.title} description={project.data.desc}>
   <Container>
     <div class="animate">
-      <BackToPrev href="/projects">
+      <BackToPrev href={`/${SITE.BASE}/projects/`}>
         Back to projects
       </BackToPrev>
     </div>

@@ -1,7 +1,7 @@
 ---
 title: 'Stellar Technology'
 desc: 'Lorem ipsum dolor sit amet'
-heroImage: '/project/stellar.jpg'
+heroImage: '/dennismacapagal/project/stellar.jpg'
 siteUrl:  'https://www.stellartech.com.sg/'
 role: 'Front-End and Back-end Development'
 platform: 'OpenCart'

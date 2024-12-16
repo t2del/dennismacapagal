@@ -1,8 +1,8 @@
 ---
 title: 'LiveFuller'
 desc: 'Lorem ipsum dolor sit amet'
-heroImage: '/project/livefuller.jpg'
-heroImageScroll: '/project/scrollable/LiveFuller.jpg'
+heroImage: '/dennismacapagal/project/livefuller.jpg'
+heroImageScroll: '/dennismacapagal/project/scrollable/LiveFuller.jpg'
 siteUrl:  'https://livefuller.app/home/'
 role: 'Front-End and Back-end Development'
 platform: 'WordPress / Elementor Pro'

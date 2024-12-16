@@ -5,6 +5,7 @@ import tailwind from "@astrojs/tailwind";
 
 export default defineConfig({
   //site: "https://www.dennismacapagal.com",
-  site: "https://dennismacapagal.github.io",
+  site: "https://t2del.github.io/dennismacapagal/",
+  base: "/dennismacapagal/",
   integrations: [mdx(), sitemap(), tailwind()],
 });

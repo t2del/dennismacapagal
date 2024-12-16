@@ -1,7 +1,7 @@
 ---
 title: 'Shang Antique'
 desc: 'Shang Antique is a well known antique shop in Singapore, specializing in genuine South East Asian antiques and boasting a high-quality reputation since 1984.'
-heroImage: '/project/shang.jpg'
+heroImage: '/dennismacapagal/project/shang.jpg'
 siteUrl:  'https://www.shangantique.com.sg/'
 role: 'Front-End and Back-end Development'
 platform: 'OpenCart'

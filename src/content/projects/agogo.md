@@ -1,8 +1,8 @@
 ---
 title: 'Agogo'
 desc: 'Lorem ipsum dolor sit amet'
-heroImage: '/project/agogo.jpg'
-heroImageScroll: '/project/agogo.jpg'
+heroImage: '/dennismacapagal/project/agogo.jpg'
+heroImageScroll: '/dennismacapagal/project/agogo.jpg'
 siteUrl:  'https://www.agogo.com.sg/'
 role: 'Front-End and Back-end Development'
 platform: 'OpenCart'

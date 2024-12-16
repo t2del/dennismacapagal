@@ -1,7 +1,7 @@
 ---
 title: 'DMontessori'
 desc: 'Lorem ipsum dolor sit amet'
-heroImage: '/project/dmontessori.jpg'
+heroImage: '/dennismacapagal/project/dmontessori.jpg'
 siteUrl:  'https://dmontessori.com.sg/'
 role: 'Front-End and Back-end Development'
 platform: 'Wordpress / Woocommerce'

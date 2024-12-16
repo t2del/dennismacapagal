@@ -1,7 +1,7 @@
 ---
 title: 'Asia Marketplace'
 desc: 'Lorem ipsum dolor sit amet'
-heroImage: '/project/asiamarketplace.jpg'
+heroImage: '/dennismacapagal/project/asiamarketplace.jpg'
 siteUrl:  'https://www.asiamarketspace.com.sg/'
 role: 'Front-End and Back-end Development'
 platform: 'OpenCart'
