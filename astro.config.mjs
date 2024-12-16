@@ -4,6 +4,7 @@ import sitemap from "@astrojs/sitemap";
 import tailwind from "@astrojs/tailwind";
 
 export default defineConfig({
-  site: "https://www.dennismacapagal.com",
+  //site: "https://www.dennismacapagal.com",
+  site: "https://dennismacapagal.github.io",
   integrations: [mdx(), sitemap(), tailwind()],
 });
